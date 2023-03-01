@@ -22,7 +22,7 @@
 
 5. 5.Nebiyu Yohannes Tarekegn
 
-6. Zerihun Kibtret lake
+6. Zerihun Kibret Lake
 
 7.
 
