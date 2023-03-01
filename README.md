@@ -13,14 +13,14 @@
 ## Write your name below:
 
 1.Yalemtsehay Melese
-2.Fuad Mohammed
-3.Henok Tilahun Lakew
 
-3.
+2.Fuad Mohammed
+
+3.Henok Tilahun Lakew
 
 4.YARED WUBUIE MESHESHA 
 
-5. 5.Nebiyu Yohannes Tarekegn
+5.Nebiyu Yohannes Tarekegn
 
 6. Zerihun Kibret Lake
 
