@@ -5,23 +5,24 @@
 ---
 
 1. git pull https://github.com/epythonlab/sage-react-test.git
-2. Write your full name in the below list
+2. Write your full name in list below
 3. Push the modified git
 
 ---
 
 ## Write your name below:
 
-1.
-2. 3.Henok Tilahun Lakew
+1.Yalemtsehay Melese
 
-3.
+2.Fuad Mohammed
 
-4.
+3.Henok Tilahun Lakew
 
-5. 5.Nebiyu Yohannes Tarekegn
+4.YARED WUBUIE MESHESHA 
 
-6.
+5.Nebiyu Yohannes Tarekegn
+
+6. Zerihun Kibret Lake
 
 7.
 
